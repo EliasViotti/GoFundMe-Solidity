@@ -1,5 +1,5 @@
 # GoFundMe-Solidity
-GoFundMe solidity code deployed on a testnet
+GoFundMe solidity smart contract deployed on a testnet
 
 First ever personal smart contract deployed on a testnet (ZKSync Testnet). Using chainlink's 'AggregatorV3Interface', gas management tecnics and a Price Converter library to convert eth into usd
 
